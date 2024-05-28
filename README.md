@@ -43,8 +43,8 @@ Alternatively, you can visit the live demo hosted on GitHub Pages: [Calculator D
 1. Click on the number buttons to input the desired values.
 2. Click on the operation buttons (+, -, *, /) to perform the corresponding arithmetic operation.
 3. Click the "=" button to get the result.
-4. Use the "C" button to clear the current input.
-5. Use the "AC" button to reset the calculator to its initial state.
+4. Use the "Clear" button to clear the current input.
+5. Use the "delete" button to reset the calculator to its initial state.
 
 ## Contributing
 
